@@ -1,1 +1,150 @@
+# Sales Performance Dashboard – 2014
 
+## Project Overview
+
+The **Sales Performance Dashboard – 2014** is an interactive business intelligence dashboard designed to analyze sales performance across salespersons, products, sales ranges, months, and regions.
+
+The dashboard provides a consolidated view of **$714,316 in total sales**, enabling users to identify high-performing sales representatives, analyze monthly sales trends, evaluate product contribution, and understand the distribution of sales across different sales ranges.
+
+This project demonstrates the use of data visualization and dashboard design to transform sales data into actionable business insights.
+
+## Dashboard Objectives
+
+The primary objectives of this dashboard are to:
+
+- Monitor overall sales performance.
+- Compare sales performance across individual salespersons.
+- Identify monthly sales trends and fluctuations.
+- Determine the top-performing products.
+- Analyze sales distribution by sales range.
+- Provide region, salesperson, and date-based filtering.
+- Support data-driven sales and business decisions.
+
+## Key Performance Indicators
+
+| Metric | Value |
+| --- | --- |
+| Total Sales | $714,316 |
+| Highest Salesperson | Nancy Freehafer |
+| Highest Salesperson Sales | $246,050 |
+| Top Product | Almonds |
+| Top Product Sales | $258,794 |
+| Highest Sales Month | February |
+| February Sales | Approximately $278K |
+
+## Key Project Insights
+
+### 1\. Overall Sales Performance
+
+The dashboard reports a **total sales value of $714,316** for 2014. The results show a significant variation in sales contribution across both salespersons and products.
+
+### 2\. Salesperson Performance
+
+**Nancy Freehafer** is the highest-performing salesperson, generating approximately **$246,050**, making her the largest individual contributor to total sales.
+
+She is followed by:
+
+- **Anne Larsen:** $128,855
+- **Michael Nei:** $125,642
+- **Andrew Cen:** $75,255
+- **Mariya Serg:** approximately $44.7K
+- **Laura Giuss:** $41,555
+- **Robert Zare:** $33,986
+- **Jan Kotas:** $18,307
+
+The results indicate a relatively concentrated sales contribution, with Nancy Freehafer generating substantially more sales than the other representatives.
+
+### 3\. Monthly Sales Trend
+
+The sales trend shows considerable variation throughout the year.
+
+- **February** recorded the highest monthly sales at approximately **$278K**.
+- **December** was another strong month at approximately **$67K**.
+- **June** and **October** also performed relatively well, at approximately **$56K** and **$53K**, respectively.
+- **April** recorded one of the lowest monthly values at approximately **$21K**.
+
+The sharp increase in February represents a significant peak compared with most other months and may warrant further investigation into the underlying transactions, products, or sales activities responsible for the increase.
+
+### 4\. Product Performance
+
+The top five products shown in the dashboard are:
+
+| Product | Sales |
+| --- | --- |
+| Almonds | $258,794 |
+| Coffee | $75,486 |
+| Curry Sauce | $72,400 |
+| Marmalade | $47,628 |
+| Mozzarella | $35,705 |
+
+**Almonds** are the clear leading product, generating **$258,794** in sales. Its contribution is substantially higher than the other products in the top-five category, indicating strong product-level concentration.
+
+### 5\. Sales Range Analysis
+
+The sales-range analysis shows the following distribution:
+
+| Sales Range | Sales |
+| --- | --- |
+| 0–10,000 | $459,962 |
+| 30,000–40,000 | $30,804 |
+| 80,000–90,000 | $87,278 |
+| 130,000–140,000 | $136,272 |
+
+The **$0–10,000 range accounts for the largest portion of total sales**, representing approximately **64%** of overall sales. This suggests that a substantial amount of revenue is associated with transactions or sales activities falling within the lower sales range.
+
+### 6\. Dashboard Filtering and Interactivity
+
+The dashboard includes interactive controls that allow users to analyze performance from different perspectives, including:
+
+- **Salesperson**
+- **Order Date**
+- **Month**
+- **Region**
+- **Sales Range**
+- **Product**
+
+These filters make it possible to move from an overall business view to more focused analysis of individual salespeople, regions, periods, or sales segments.
+
+## Business Insights
+
+Based on the dashboard analysis, several important business observations can be made:
+
+1. **Sales performance is highly concentrated among a small number of contributors**, particularly Nancy Freehafer.
+2. **Almonds are the strongest-performing product**, significantly outperforming the other products shown.
+3. **February is an exceptional sales month**, creating a major peak in the annual sales trend.
+4. **Sales performance varies considerably across months**, indicating opportunities to investigate seasonal or operational factors affecting demand.
+5. The large contribution from the **$0–10,000 sales range** suggests that lower-value sales collectively represent a significant portion of the business.
+6. The dashboard's filtering capabilities provide a useful framework for identifying performance differences across **regions, salespersons, and time periods**.
+
+## Dashboard Components
+
+The dashboard consists of the following major visualizations:
+
+- **Sales by Salesperson** – Compares individual salesperson performance.
+- **Sales Trend** – Displays monthly sales performance throughout 2014.
+- **Sales by Sales Range** – Shows the distribution of sales across predefined ranges.
+- **Top 5 Sales by Product** – Highlights the products contributing the most sales.
+- **Report Controller** – Provides interactive filtering by salesperson, order date, month, and region.
+
+## Tools and Skills Demonstrated
+
+This project demonstrates practical skills in:
+
+- Data analysis
+- Business intelligence
+- Dashboard development
+- Data visualization
+- KPI analysis
+- Sales performance analysis
+- Trend analysis
+- Product performance analysis
+- Interactive filtering
+- Business insight generation
+
+## Conclusion
+
+The **Sales Performance Dashboard – 2014** provides a comprehensive overview of sales activity and highlights the major drivers of business performance. The analysis identifies **Nancy Freehafer as the leading salesperson, Almonds as the highest-performing product, and February as the strongest sales month**.
+
+The dashboard can be used by sales managers and business stakeholders to monitor performance, identify areas of opportunity, investigate significant sales fluctuations, and support data-driven decision-making.
+
+> **Note:** Values displayed in the dashboard are based on the visualized 2014 sales data and may be rounded where the dashboard presents figures in thousands.
